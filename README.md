@@ -1,1 +1,2 @@
 # lamaple4.github.io
+Our National Parks have some of the best views, coolest geology, and most diverse species. I love travel and the outdoors and have combined those hobbies into a love for our National Parks. There are currently 63 parks, with the newest being New River Gorge in West Virginia (established 2020). I wanted to look at data for a few different aspects to our parks, such as annual visitation, land area, and location. I used data from the following three sources: Wikipedia, nps.gov, irma. The tables and plots below were created with Rstudio.
